@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpDeskTicketing", "HelpDeskTicketing\HelpDeskTicketing.csproj", "{EDB642FA-279A-412E-99CD-1D37D07E2483}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpDeskTicketing.Core", "HelpDeskTicketing.Core\HelpDeskTicketing.Core.csproj", "{42080699-087D-4D64-B0D2-ECF90E4B33B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpDeskTicketing.Entities", "HelpDeskTicketing.Entities\HelpDeskTicketing.Entities.csproj", "{3A4F1296-99D9-4B54-A01F-834BC0406C85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpDeskTicketing.Storage", "HelpDeskTicketing.Storage\HelpDeskTicketing.Storage.csproj", "{BC9C7D14-561E-4D4F-A776-6887A8E777D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDB642FA-279A-412E-99CD-1D37D07E2483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDB642FA-279A-412E-99CD-1D37D07E2483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDB642FA-279A-412E-99CD-1D37D07E2483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDB642FA-279A-412E-99CD-1D37D07E2483}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42080699-087D-4D64-B0D2-ECF90E4B33B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42080699-087D-4D64-B0D2-ECF90E4B33B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42080699-087D-4D64-B0D2-ECF90E4B33B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42080699-087D-4D64-B0D2-ECF90E4B33B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A4F1296-99D9-4B54-A01F-834BC0406C85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A4F1296-99D9-4B54-A01F-834BC0406C85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A4F1296-99D9-4B54-A01F-834BC0406C85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A4F1296-99D9-4B54-A01F-834BC0406C85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC9C7D14-561E-4D4F-A776-6887A8E777D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC9C7D14-561E-4D4F-A776-6887A8E777D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC9C7D14-561E-4D4F-A776-6887A8E777D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC9C7D14-561E-4D4F-A776-6887A8E777D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
